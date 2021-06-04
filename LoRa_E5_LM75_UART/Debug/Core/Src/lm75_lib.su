@@ -1,0 +1,11 @@
+lm75_lib.c:32:7:LM75_getTemperature	24	static
+lm75_lib.c:49:7:LM75_getTemperatureInFarenheit	16	static
+lm75_lib.c:53:9:LM75_getConfiguration	24	static
+lm75_lib.c:62:7:LM75_getOSThreshold	24	static
+lm75_lib.c:78:8:LM75_getHysteresis	24	static
+lm75_lib.c:95:6:LM75_setConfiguration	24	static
+lm75_lib.c:102:6:LM75_setHysteresis	24	static
+lm75_lib.c:123:6:LM75_setOSThreshold	24	static
+lm75_lib.c:144:6:LM75_Shutdown	16	static
+lm75_lib.c:148:6:LM75_Wakeup	16	static
+lm75_lib.c:152:7:LM75_isShutdown	16	static
