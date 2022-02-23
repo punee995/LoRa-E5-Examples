@@ -1,0 +1,2 @@
+app_lorawan.c:64:6:MX_LoRaWAN_Init	8	static
+app_lorawan.c:79:6:MX_LoRaWAN_Process	8	static

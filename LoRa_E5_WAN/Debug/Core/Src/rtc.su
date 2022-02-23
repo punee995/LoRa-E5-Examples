@@ -1,0 +1,7 @@
+stm32wlxx_ll_rcc.h:2332:22:LL_RCC_EnableRTC	4	static
+stm32wlxx_ll_rcc.h:2342:22:LL_RCC_DisableRTC	4	static
+stm32wlxx_ll_bus.h:914:22:LL_APB1_GRP1_EnableClock	24	static
+stm32wlxx_ll_bus.h:1018:22:LL_APB1_GRP1_DisableClock	16	static
+rtc.c:30:6:MX_RTC_Init	56	static
+rtc.c:84:6:HAL_RTC_MspInit	72	static
+rtc.c:118:6:HAL_RTC_MspDeInit	16	static

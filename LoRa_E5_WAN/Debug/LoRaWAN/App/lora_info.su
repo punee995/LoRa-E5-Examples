@@ -1,0 +1,2 @@
+lora_info.c:68:6:LoraInfo_Init	8	static
+lora_info.c:137:13:LoraInfo_GetPtr	4	static

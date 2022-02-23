@@ -1,0 +1,4 @@
+RegionBaseUS.c:49:24:FindAvailable125kHzChannels	32	static
+RegionBaseUS.c:75:17:RegionBaseUSComputeNext125kHzJoinChannel	48	static
+RegionBaseUS.c:137:6:RegionBaseUSVerifyFrequencyGroup	24	static
+RegionBaseUS.c:148:10:RegionBaseUSCalcDownlinkFrequency	24	static

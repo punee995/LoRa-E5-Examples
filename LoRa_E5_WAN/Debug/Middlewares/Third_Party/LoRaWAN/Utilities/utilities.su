@@ -1,0 +1,11 @@
+utilities.c:48:16:rand1	4	static
+utilities.c:53:6:srand1	16	static
+utilities.c:59:9:randr	16	static
+utilities.c:64:6:memcpy1	24	static
+utilities.c:72:6:memcpyr	24	static
+utilities.c:81:6:memset1	16	static
+utilities.c:89:8:Nibble2HexChar	16	static
+utilities.c:105:10:Crc32	32	static
+utilities.c:130:10:Crc32Init	4	static
+utilities.c:135:10:Crc32Update	40	static
+utilities.c:159:10:Crc32Finalize	16	static
