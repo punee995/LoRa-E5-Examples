@@ -1,0 +1,3 @@
+u8g2_d_memory.c:6:10:u8g2_m_16_8_1	16	static
+u8g2_d_memory.c:12:10:u8g2_m_16_8_2	16	static
+u8g2_d_memory.c:18:10:u8g2_m_16_8_f	16	static

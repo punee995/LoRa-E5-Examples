@@ -1,0 +1,7 @@
+u8x8_d_ssd1322.c:64:9:u8x8_write_byte_to_16gr_device	16	static
+u8x8_d_ssd1322.c:88:17:u8x8_ssd1322_8to32	32	static
+u8x8_d_ssd1322.c:118:17:u8x8_ssd1322_4to32	24	static
+u8x8_d_ssd1322.c:145:9:u8x8_d_ssd1322_common	40	static
+u8x8_d_ssd1322.c:298:9:u8x8_d_ssd1322_nhd_256x64	24	static
+u8x8_d_ssd1322.c:337:9:u8x8_d_ssd1322_common2	40	static
+u8x8_d_ssd1322.c:499:9:u8x8_d_ssd1322_nhd_128x64	24	static

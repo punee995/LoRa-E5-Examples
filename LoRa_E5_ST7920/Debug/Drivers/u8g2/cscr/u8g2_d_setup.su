@@ -1,0 +1,9 @@
+u8g2_d_setup.c:7:6:u8g2_Setup_st7920_p_128x64_1	40	static
+u8g2_d_setup.c:16:6:u8g2_Setup_st7920_p_128x64_2	40	static
+u8g2_d_setup.c:25:6:u8g2_Setup_st7920_p_128x64_f	40	static
+u8g2_d_setup.c:35:6:u8g2_Setup_st7920_128x64_1	40	static
+u8g2_d_setup.c:44:6:u8g2_Setup_st7920_128x64_2	40	static
+u8g2_d_setup.c:53:6:u8g2_Setup_st7920_128x64_f	40	static
+u8g2_d_setup.c:63:6:u8g2_Setup_st7920_s_128x64_1	40	static
+u8g2_d_setup.c:72:6:u8g2_Setup_st7920_s_128x64_2	40	static
+u8g2_d_setup.c:81:6:u8g2_Setup_st7920_s_128x64_f	40	static

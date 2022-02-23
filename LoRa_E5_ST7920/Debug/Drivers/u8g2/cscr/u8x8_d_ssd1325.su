@@ -1,0 +1,3 @@
+u8x8_d_ssd1325.c:119:17:u8x8_ssd1325_8to32	32	static
+u8x8_d_ssd1325.c:152:16:u8x8_d_ssd1325_128x64_generic	40	static
+u8x8_d_ssd1325.c:277:9:u8x8_d_ssd1325_nhd_128x64	24	static

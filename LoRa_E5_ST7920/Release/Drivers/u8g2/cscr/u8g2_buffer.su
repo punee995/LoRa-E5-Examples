@@ -1,0 +1,6 @@
+u8g2_buffer.c:72:13:u8g2_send_buffer	40	static
+u8g2_buffer.c:40:6:u8g2_ClearBuffer	0	static
+u8g2_buffer.c:93:6:u8g2_SendBuffer	8	static
+u8g2_buffer.c:100:6:u8g2_SetBufferCurrTileRow	0	static
+u8g2_buffer.c:106:6:u8g2_FirstPage	8	static
+u8g2_buffer.c:115:9:u8g2_NextPage	16	static
